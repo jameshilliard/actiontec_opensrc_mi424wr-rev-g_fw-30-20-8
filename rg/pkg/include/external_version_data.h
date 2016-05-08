@@ -1,0 +1,2 @@
+#define EXTERNAL_VERSION ""
+
